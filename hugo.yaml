@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://www.theselfimprovementsite.com/
 languageCode: en-us
-title: My New Hugo Site
+title: The Self Improvement Site
 theme: ["PaperMod"]
 related:
   includeNewer: true
@@ -11,4 +11,4 @@ related:
     weight: 100
   threshold: 20
   toLower: false
-
+toc: true
